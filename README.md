@@ -1,4 +1,4 @@
-<img src="header.png" alt="Profile Banner"/>
+<img src="github.jpg" alt="Profile Banner"/>
 <p><i></i></p>
 <h1>ᴀʙᴏᴜᴛ ᴍᴇ</h1>
 - 👀 ɪ ᴀᴍ ꜱᴇʟꜰ-ᴛᴀᴜɢʜᴛ ꜰʀᴏɴᴛᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ <br>
